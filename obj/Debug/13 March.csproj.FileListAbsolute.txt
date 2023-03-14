@@ -1,0 +1,12 @@
+D:\Study\C#\13 March\bin\Debug\13 March.exe.config
+D:\Study\C#\13 March\bin\Debug\13 March.exe
+D:\Study\C#\13 March\bin\Debug\13 March.pdb
+D:\Study\C#\13 March\obj\Debug\13 March.csproj.AssemblyReference.cache
+D:\Study\C#\13 March\obj\Debug\13 March.csproj.SuggestedBindingRedirects.cache
+D:\Study\C#\13 March\obj\Debug\_13_March.Form1.resources
+D:\Study\C#\13 March\obj\Debug\_13_March.Form2.resources
+D:\Study\C#\13 March\obj\Debug\_13_March.Properties.Resources.resources
+D:\Study\C#\13 March\obj\Debug\13 March.csproj.GenerateResource.cache
+D:\Study\C#\13 March\obj\Debug\13 March.csproj.CoreCompileInputs.cache
+D:\Study\C#\13 March\obj\Debug\13 March.exe
+D:\Study\C#\13 March\obj\Debug\13 March.pdb
